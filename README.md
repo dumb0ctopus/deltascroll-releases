@@ -35,7 +35,7 @@ This installer is for 64-bit Windows.
 - Optional Google Drive backup.
 - EPUB import.
 - Gutenberg book import.
-- Offline Piper text-to-speech.
+- Offline text-to-speech.
 - Three English Piper voices.
 
 ## Backup information
