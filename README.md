@@ -2,7 +2,7 @@
 
 This repository contains the public release files for DeltaScroll.
 
-DeltaScroll is an EPUB reader for Windows. It provides local library management, reading position storage, shelves, favourites, highlights, bookmarks, notes, and backup tools.
+DeltaScroll is an eBook reader for Windows. It provides local library management, reading position storage, shelves, favourites, highlights, bookmarks, notes, and backup tools.
 
 The Windows version includes offline Piper text-to-speech.
 
@@ -27,13 +27,13 @@ This installer is for 64-bit Windows.
 
 ## Included features
 
-- EPUB library management.
+- eBook library management.
 - Reading position storage.
 - Shelves and favourites.
 - Highlights, bookmarks, and notes.
 - Local backup and restore.
 - Optional Google Drive backup.
-- EPUB import.
+- eBook import.
 - Gutenberg book import.
 - Offline text-to-speech.
 - Three English Piper voices.
